@@ -1,0 +1,1 @@
+selct * from size_compostion where app_code="xxx" and version="xxx" and platform="xxxx"

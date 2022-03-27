@@ -1,0 +1,24 @@
+{
+  "name": "node_part2",
+  "version": "1.0.0",
+  "description": "#全局对象    1234   （1）:process  (2)：__dirname __filename (3):module exports require              (4):setTimeout setInterval clearTimeout clearInterval",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoyongemc/node_part2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoyongemc/node_part2/issues"
+  },
+  "homepage": "https://github.com/luoyongemc/node_part2#readme",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
+}
